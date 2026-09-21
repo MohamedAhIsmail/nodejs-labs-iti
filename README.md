@@ -1,2 +1,0 @@
-# nodeJSLabs
-ITI nodeJSLabs Tasks
