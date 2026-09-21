@@ -1,0 +1,26 @@
+body {
+  background-color: #eee;
+}
+
+.area {
+  width: 70%;
+}
+
+
+
+.create-post,
+.card,
+.real-time-search{
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+  border: none;
+}
+
+.add {
+  margin-right: auto;
+}
+
+.delete {
+  width: fit-content;
+  margin-left: auto;
+}
+
